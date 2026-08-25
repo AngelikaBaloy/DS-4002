@@ -1,32 +1,23 @@
 # Syllabus DS 4002: Prototyping
 
 **Instructors**: 
-   * 12:00 section: Peter Alonzi (lpa2a) and Mohini Gupta (rde6mn)
-   * 13:00 section: Gianluca Guadagni (gg5d) and Andres Castellanos (ppj8hm)
+   * 14:00 section: Peter Alonzi (lpa2a)
+   * 10:00 section: Peter Alonzi (lpa2a)
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: Wednesdays 13:00-15:00pm
-        - *Location*:  Data Science 344
-   - **Mohini Gupta**: 
-        - *Dates and times*: Fridays 13:00-15:00
-        - *Location*: The Hub, 2nd Floor
-   - **Gianluca Guadagni**:
-        - *Dates and times*: Thursdays 17:00-18:00
-        - *Location*: 431
-   - **Andres Castellanos**:
         - *Dates and times*: TBD
-        - *Location*: TBD
+        - *Location*:  TBD
           
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Fall 2025
+**Term** : Fall 2026
 
 **Meeting times**:     
-   * Section 001 - 12:00-12:50, MWF
-   * Section 002 - 13:00-13:50, MWF
+   * Section 001 - 14:00-14:50, MWF
+   * Section 002 - 10:00-10:50, MWF
 
-**Class Location**: Data Science Room 306
+**Class Location**: TBD
 
 **Class Title**: Prototyping (in SIS: Data Science Project Course)
 
