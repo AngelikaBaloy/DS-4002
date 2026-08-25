@@ -6,18 +6,16 @@
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: TBD
-        - *Location*:  TBD
+        - *Dates and times*: 11:00-14:00
+        - *Location*:  Room 344
           
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
 **Term** : Fall 2026
 
-**Meeting times**:     
-   * Section 001 - 14:00-14:50, MWF
-   * Section 002 - 10:00-10:50, MWF
-
-**Class Location**: TBD
+**Meeting times and location**:     
+   * Section 001 - 14:00-14:50, MWF, Room 306
+   * Section 002 - 10:00-10:50, MWF, Room 206
 
 **Class Title**: Prototyping (in SIS: Data Science Project Course)
 
