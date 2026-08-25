@@ -88,7 +88,7 @@ This class uses the Specifications grading system. Like a more traditional syste
 | Exams   | 12/11         |           |  No Exam                |             |      |
 
 * N.B. There is no final exam for this class.
-* Attendance credit is earned during the project cycles. I.e. from 9/8 through 12/3.
+* Attendance credit is earned during the project cycles. I.e. from 9/7 through 12/2.
 * Due dates are listed in canvas and submissions are made via canvas except for CS3. No assignments can be accepted after 12/11.
 
 ## A few Policies that will Govern the Class
