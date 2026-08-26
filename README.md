@@ -88,7 +88,7 @@ This class uses the Specifications grading system. Like a more traditional syste
 | Week 14 | 11/23         |  3        |  Thanksgiving           |             | | |
 | Week 15 | 11/30,12/2,4  |  3        | 	Presentation Week     | MI4         | CC1,CC2,ID1 due 12/7 | CS3 Due 12/4 |
 | Week 16 | 12/7          | Make UP 	|                         |    	        |      |
-| Exams   | 12/11         |           |  No Exam                |             |      |
+| Exams   | 12/14 or 12/17         |           |  No Exam                |             |      |
 
 * N.B. There is no final exam for this class.
 * Attendance credit is earned during the project cycles. I.e. from 9/7 through 12/2.
